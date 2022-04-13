@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(205, 239, 255);
+    text-align: center;
+}
+li{
+    text-align: left;
+}
+ul{
+    display: inline-block;
+}
