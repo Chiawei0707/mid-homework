@@ -1,0 +1,13 @@
+svg{
+    border: 1px solid rgb(242, 9, 9);
+    background-color: rgb(239, 205, 255);
+}
+
+.axis .domain{
+    stroke:none;
+}
+
+.x line{
+    stroke: rgb(106, 45, 172);
+}
+    
